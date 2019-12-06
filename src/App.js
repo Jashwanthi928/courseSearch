@@ -10,7 +10,7 @@ class App extends Component {
 
   // Data is fetched from api after component is mounted
   async componentWillMount() {
-    const url = "http://nut-case.s3.amazonaws.com/coursessc.json";
+    const url = "https://nut-case.s3.amazonaws.com/coursessc.json";
     const response = await fetch(url);
     const data = await response.json();
     // saving data in localStorage
