@@ -1,5 +1,5 @@
 # Course-search App
-This is a course-search application where users can search for various subjects and providers available in the app.
+This is a course-search application where users can search various subjects based on sujects and providers available in the app.
 
 ## Authors:
 Jashwanthi V
