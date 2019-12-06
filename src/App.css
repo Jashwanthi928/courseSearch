@@ -1,0 +1,48 @@
+.title {
+  color: rgb(44, 44, 155);
+}
+.textbox {
+  width: 700px !important;
+  height: 40px !important;
+  margin-left: 14em !important;
+  margin-top: 1em !important;
+}
+.coursedetails {
+  margin-top: 2em !important;
+  width: 700px !important;
+  margin-left: 14em !important;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 0% !important;
+}
+.visitlink {
+  color: white;
+}
+.videolink {
+  color: white;
+}
+.visitbutton {
+  background-color: #6200ea !important;
+  border: none !important;
+}
+.videobutton {
+  background-color: #6200ea !important;
+  border: none !important;
+}
+.provider {
+  font-weight: bold;
+}
+.heading {
+  font-size: 3em;
+  color: #6200ea;
+  font-weight: bolder;
+  margin-left: 10em;
+}
