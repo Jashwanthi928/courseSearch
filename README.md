@@ -1,5 +1,5 @@
-# Weather-App
-This is a cousesearch application where users can search for various subjects and providers available in the app.
+# Course-search App
+This is a course-search application where users can search for various subjects and providers available in the app.
 
 ## Authors:
 Jashwanthi V
