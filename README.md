@@ -20,6 +20,6 @@ Create a couse search application
 ![Home](images/home.PNG)
 
 
-![childsubject](images/searchbychildsub.PNG)
+![childsubject](images/childsub.PNG)
 
 ![provider](images/searchbyprovider.PNG)
